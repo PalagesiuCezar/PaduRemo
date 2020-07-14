@@ -1,0 +1,246 @@
+2018-05-13 01:20:06,741 [ INFO ]: [ SERVER ] started listen on (10.10.0.193:8080)
+2018-05-13 02:24:47,112 [ INFO ]: [ CLIENT ] client just connected 10.10.0.193:37590
+2018-05-13 02:25:23,131 [ INFO ]: [ CLIENT ] client just connected 10.10.0.193:37596
+2018-05-13 06:39:00,252 [ INFO ]: [ SERVER ] started listen on (10.10.0.193:8080)
+2018-05-13 06:39:05,493 [ INFO ]: [ CLIENT ] client just connected 10.10.0.193:40868
+2018-05-13 06:52:00,552 [ INFO ]: [ SERVER ] started listen on (10.10.0.193:8080)
+2018-05-13 06:52:03,645 [ INFO ]: [ CLIENT ] client just connected 10.10.0.193:41058
+2018-05-13 06:52:46,440 [ INFO ]: [ SERVER ] started listen on (10.10.0.193:8080)
+2018-05-13 06:52:50,792 [ INFO ]: [ CLIENT ] client just connected 10.10.0.193:41066
+2018-05-13 06:53:57,390 [ INFO ]: [ SERVER ] started listen on (10.10.0.193:8080)
+2018-05-13 06:54:02,025 [ INFO ]: [ CLIENT ] client just connected 10.10.0.193:41082
+2018-05-13 06:54:33,332 [ INFO ]: [ SERVER ] started listen on (10.10.0.193:8080)
+2018-05-13 06:54:44,493 [ INFO ]: [ CLIENT ] client just connected 10.10.0.193:41090
+2018-05-13 10:56:01,076 [ INFO ]: [ SERVER ] started listen on (10.10.0.193:8080)
+2018-05-13 10:56:40,800 [ INFO ]: [ CLIENT ] client just connected 10.10.0.193:42656
+2018-05-13 10:57:55,102 [ INFO ]: [ SERVER ] started listen on (10.10.0.193:8080)
+2018-05-13 10:58:06,250 [ INFO ]: [ CLIENT ] client just connected 10.10.0.193:42694
+2018-05-13 11:00:04,094 [ INFO ]: [ SERVER ] started listen on (10.10.0.193:8080)
+2018-05-13 11:00:11,580 [ INFO ]: [ CLIENT ] client just connected 10.10.0.193:42714
+2018-05-13 11:02:24,093 [ INFO ]: [ SERVER ] started listen on (10.10.0.193:8080)
+2018-05-13 11:02:29,295 [ INFO ]: [ CLIENT ] client just connected 10.10.0.193:42762
+2018-05-13 11:05:30,666 [ INFO ]: [ SERVER ] started listen on (10.10.0.193:8080)
+2018-05-13 11:05:38,577 [ INFO ]: [ CLIENT ] client just connected 10.10.0.193:42892
+2018-05-13 11:13:59,291 [ INFO ]: [ SERVER ] started listen on (10.10.0.193:8080)
+2018-05-13 11:14:04,822 [ INFO ]: [ CLIENT ] client just connected 10.10.0.193:43120
+2018-05-13 11:15:39,457 [ INFO ]: [ SERVER ] started listen on (10.10.0.193:8080)
+2018-05-13 11:15:44,560 [ INFO ]: [ CLIENT ] client just connected 10.10.0.193:43134
+2018-05-13 11:19:52,954 [ INFO ]: [ SERVER ] started listen on (10.10.0.193:8080)
+2018-05-13 11:19:55,664 [ INFO ]: [ CLIENT ] client just connected 10.10.0.193:43248
+2018-05-13 11:24:04,310 [ INFO ]: [ SERVER ] started listen on (10.10.0.193:8080)
+2018-05-13 11:24:09,974 [ INFO ]: [ CLIENT ] client just connected 10.10.0.193:43290
+2018-05-13 11:25:20,715 [ INFO ]: [ SERVER ] started listen on (10.10.0.193:8080)
+2018-05-13 11:25:24,622 [ INFO ]: [ CLIENT ] client just connected 10.10.0.193:43304
+2018-05-13 11:25:42,574 [ ERROR ]: [ ERROR ] Error binding socket
+Traceback (most recent call last):
+  File "/home/cezar_palagesiu/PycharmProjects/hacktmIara/scripts/server/main_server.py", line 42, in __init__
+    self.socket_server.bind(self.server_address)
+OSError: [Errno 98] Address already in use
+2018-05-13 11:25:45,236 [ ERROR ]: [ ERROR ] Error binding socket
+Traceback (most recent call last):
+  File "/home/cezar_palagesiu/PycharmProjects/hacktmIara/scripts/server/main_server.py", line 42, in __init__
+    self.socket_server.bind(self.server_address)
+OSError: [Errno 98] Address already in use
+2018-05-13 11:25:46,063 [ ERROR ]: [ ERROR ] Error binding socket
+Traceback (most recent call last):
+  File "/home/cezar_palagesiu/PycharmProjects/hacktmIara/scripts/server/main_server.py", line 42, in __init__
+    self.socket_server.bind(self.server_address)
+OSError: [Errno 98] Address already in use
+2018-05-13 11:25:58,569 [ ERROR ]: [ ERROR ] Error binding socket
+Traceback (most recent call last):
+  File "/home/cezar_palagesiu/PycharmProjects/hacktmIara/scripts/server/main_server.py", line 42, in __init__
+    self.socket_server.bind(self.server_address)
+OSError: [Errno 98] Address already in use
+2018-05-13 11:26:05,221 [ ERROR ]: [ ERROR ] Error binding socket
+Traceback (most recent call last):
+  File "/home/cezar_palagesiu/PycharmProjects/hacktmIara/scripts/server/main_server.py", line 42, in __init__
+    self.socket_server.bind(self.server_address)
+OSError: [Errno 98] Address already in use
+2018-05-13 11:26:06,991 [ ERROR ]: [ ERROR ] Error binding socket
+Traceback (most recent call last):
+  File "/home/cezar_palagesiu/PycharmProjects/hacktmIara/scripts/server/main_server.py", line 42, in __init__
+    self.socket_server.bind(self.server_address)
+OSError: [Errno 98] Address already in use
+2018-05-13 11:26:08,645 [ ERROR ]: [ ERROR ] Error binding socket
+Traceback (most recent call last):
+  File "/home/cezar_palagesiu/PycharmProjects/hacktmIara/scripts/server/main_server.py", line 42, in __init__
+    self.socket_server.bind(self.server_address)
+OSError: [Errno 98] Address already in use
+2018-05-13 11:28:51,939 [ INFO ]: [ SERVER ] started listen on (10.10.0.193:8080)
+2018-05-13 11:28:55,056 [ INFO ]: [ CLIENT ] client just connected 10.10.0.193:43338
+2018-05-13 11:31:23,497 [ INFO ]: [ SERVER ] started listen on (10.10.0.193:8080)
+2018-05-13 11:31:28,089 [ INFO ]: [ CLIENT ] client just connected 10.10.0.193:43360
+2018-05-13 11:33:19,167 [ INFO ]: [ SERVER ] started listen on (10.10.0.193:8080)
+2018-05-13 11:33:25,927 [ INFO ]: [ CLIENT ] client just connected 10.10.0.193:43384
+2018-05-13 11:34:29,061 [ INFO ]: [ SERVER ] started listen on (10.10.0.193:8080)
+2018-05-13 11:34:31,487 [ INFO ]: [ CLIENT ] client just connected 10.10.0.193:43396
+2018-05-13 11:37:22,133 [ INFO ]: [ SERVER ] started listen on (10.10.0.193:8080)
+2018-05-13 11:37:32,068 [ INFO ]: [ CLIENT ] client just connected 10.10.0.193:43430
+2018-05-13 11:43:27,829 [ INFO ]: [ SERVER ] started listen on (10.10.0.193:8080)
+2018-05-13 11:43:30,296 [ INFO ]: [ CLIENT ] client just connected 10.10.0.193:43500
+2018-05-13 11:45:12,048 [ INFO ]: [ SERVER ] started listen on (10.10.0.193:8080)
+2018-05-13 11:45:14,276 [ INFO ]: [ CLIENT ] client just connected 10.10.0.193:43516
+2018-05-13 13:17:20,757 [ INFO ]: [ SERVER ] started listen on (10.10.0.193:8080)
+2018-05-13 13:18:21,722 [ INFO ]: [ CLIENT ] client just connected 10.10.0.193:44634
+2018-05-13 13:18:28,098 [ INFO ]: [ CLIENT ] Client just disconnected 
+2018-05-13 13:25:19,611 [ INFO ]: [ SERVER ] Server is closing...
+2018-05-13 13:25:19,612 [ INFO ]: [ CLIENT ] Client just disconnected 
+2018-05-13 13:25:20,930 [ INFO ]: [ SERVER ] started listen on (10.10.0.193:8080)
+2018-05-13 13:25:24,993 [ INFO ]: [ CLIENT ] client just connected 10.10.0.193:44722
+2018-05-13 13:27:08,780 [ INFO ]: [ SERVER ] started listen on (10.10.0.193:8080)
+2018-05-13 13:27:16,346 [ INFO ]: [ CLIENT ] client just connected 10.10.0.193:44748
+2018-05-13 13:29:01,240 [ INFO ]: [ SERVER ] started listen on (10.10.0.193:8080)
+2018-05-13 13:29:06,376 [ INFO ]: [ CLIENT ] client just connected 10.10.0.193:44770
+2018-05-13 13:35:29,473 [ INFO ]: [ SERVER ] started listen on (10.10.0.193:8080)
+2018-05-13 13:35:32,683 [ INFO ]: [ CLIENT ] client just connected 10.10.0.193:44844
+2018-05-13 13:39:18,491 [ INFO ]: [ CLIENT ] Client just disconnected 
+2018-05-13 13:39:24,025 [ INFO ]: [ SERVER ] started listen on (10.10.0.193:8080)
+2018-05-13 13:39:26,372 [ INFO ]: [ CLIENT ] client just connected 10.10.0.193:44882
+2018-05-13 13:39:33,638 [ INFO ]: [ CLIENT ] Client just disconnected 
+2018-05-13 13:42:42,230 [ INFO ]: [ CLIENT ] client just connected 10.10.0.193:44914
+2018-05-13 13:42:46,622 [ INFO ]: [ CLIENT ] Client just disconnected 
+2018-05-13 13:43:32,730 [ INFO ]: [ CLIENT ] client just connected 10.10.0.193:44926
+2018-05-13 13:43:36,201 [ INFO ]: [ CLIENT ] Client just disconnected 
+2018-05-13 13:46:35,224 [ INFO ]: [ CLIENT ] client just connected 10.10.0.193:44954
+2018-05-13 13:47:07,845 [ INFO ]: [ CLIENT ] Client just disconnected 
+2018-05-13 13:47:09,415 [ INFO ]: [ CLIENT ] client just connected 10.10.0.193:44962
+2018-05-13 13:48:39,425 [ INFO ]: [ CLIENT ] Client just disconnected 
+2018-05-13 13:50:00,512 [ INFO ]: [ CLIENT ] client just connected 10.10.0.193:44996
+2018-05-13 13:50:28,463 [ ERROR ]: [ ERROR ] Error binding socket
+Traceback (most recent call last):
+  File "/home/cezar_palagesiu/PycharmProjects/hacktmIara/scripts/server/main_server.py", line 48, in __init__
+    self.socket_server.bind(self.server_address)
+OSError: [Errno 98] Address already in use
+2018-05-13 13:50:29,795 [ ERROR ]: [ ERROR ] Error binding socket
+Traceback (most recent call last):
+  File "/home/cezar_palagesiu/PycharmProjects/hacktmIara/scripts/server/main_server.py", line 48, in __init__
+    self.socket_server.bind(self.server_address)
+OSError: [Errno 98] Address already in use
+2018-05-13 13:50:33,740 [ ERROR ]: [ ERROR ] Error binding socket
+Traceback (most recent call last):
+  File "/home/cezar_palagesiu/PycharmProjects/hacktmIara/scripts/server/main_server.py", line 48, in __init__
+    self.socket_server.bind(self.server_address)
+OSError: [Errno 98] Address already in use
+2018-05-13 13:50:44,011 [ ERROR ]: [ ERROR ] Error binding socket
+Traceback (most recent call last):
+  File "/home/cezar_palagesiu/PycharmProjects/hacktmIara/scripts/server/main_server.py", line 48, in __init__
+    self.socket_server.bind(self.server_address)
+OSError: [Errno 98] Address already in use
+2018-05-13 13:51:04,440 [ ERROR ]: [ ERROR ] Error binding socket
+Traceback (most recent call last):
+  File "/home/cezar_palagesiu/PycharmProjects/hacktmIara/scripts/server/main_server.py", line 48, in __init__
+    self.socket_server.bind(self.server_address)
+OSError: [Errno 98] Address already in use
+2018-05-13 13:51:37,603 [ INFO ]: [ SERVER ] started listen on (10.10.0.193:8080)
+2018-05-13 13:51:40,476 [ INFO ]: [ CLIENT ] client just connected 10.10.0.193:45012
+2018-05-13 13:59:41,479 [ INFO ]: [ SERVER ] started listen on (10.10.0.193:8080)
+2018-05-13 13:59:43,352 [ INFO ]: [ CLIENT ] client just connected 10.10.0.193:45082
+2018-05-13 14:02:10,581 [ INFO ]: [ SERVER ] started listen on (10.10.0.193:8080)
+2018-05-13 14:02:12,164 [ INFO ]: [ CLIENT ] client just connected 10.10.0.193:45106
+2018-05-13 14:03:44,732 [ INFO ]: [ CLIENT ] Client just disconnected 
+2018-05-13 14:03:46,667 [ INFO ]: [ SERVER ] Server is closing...
+2018-05-13 14:03:46,668 [ INFO ]: [ CLIENT ] Client just disconnected 
+2018-05-13 14:16:10,535 [ INFO ]: [ SERVER ] started listen on (10.10.0.193:8080)
+2018-05-13 14:17:27,971 [ INFO ]: [ CLIENT ] client just connected 10.10.1.195:52818
+2018-05-13 14:17:48,463 [ INFO ]: [ CLIENT ] Client just disconnected 
+2018-05-13 14:17:55,701 [ INFO ]: [ CLIENT ] client just connected 10.10.1.195:52843
+2018-05-13 14:18:32,454 [ INFO ]: [ CLIENT ] Client just disconnected 
+2018-05-13 14:32:01,956 [ INFO ]: [ CLIENT ] client just connected 10.10.0.193:45772
+2018-05-13 14:32:07,552 [ INFO ]: [ CLIENT ] Client just disconnected 
+2018-05-13 14:32:12,582 [ INFO ]: [ SERVER ] Server is closing...
+2018-05-13 14:32:12,583 [ INFO ]: [ CLIENT ] Client just disconnected 
+2018-05-13 14:33:04,947 [ INFO ]: [ SERVER ] started listen on (10.10.0.193:8080)
+2018-05-13 14:33:07,052 [ INFO ]: [ CLIENT ] client just connected 10.10.0.193:45786
+2018-05-13 14:33:13,585 [ INFO ]: [ CLIENT ] Client just disconnected 
+2018-05-13 14:33:14,875 [ INFO ]: [ SERVER ] Server is closing...
+2018-05-13 14:33:14,875 [ INFO ]: [ CLIENT ] Client just disconnected 
+2018-05-13 14:33:27,830 [ INFO ]: [ SERVER ] started listen on (10.10.0.193:8080)
+2018-05-13 14:33:29,851 [ INFO ]: [ CLIENT ] client just connected 10.10.0.193:45788
+2018-05-13 14:33:34,068 [ INFO ]: [ CLIENT ] Client just disconnected 
+2018-05-13 14:33:37,607 [ INFO ]: [ SERVER ] Server is closing...
+2018-05-13 14:33:37,607 [ INFO ]: [ CLIENT ] Client just disconnected 
+2018-05-13 14:34:33,245 [ INFO ]: [ SERVER ] started listen on (10.10.0.193:8080)
+2018-05-13 14:34:35,101 [ INFO ]: [ CLIENT ] client just connected 10.10.0.193:45804
+2018-05-13 15:36:58,251 [ INFO ]: [ SERVER ] Server is closing...
+2018-05-13 15:36:58,252 [ INFO ]: [ CLIENT ] Client just disconnected 
+2018-05-13 15:36:59,467 [ ERROR ]: [ ERROR ] Error binding socket
+Traceback (most recent call last):
+  File "/home/cezar_palagesiu/PycharmProjects/hacktmIara/scripts/server/main_server.py", line 48, in __init__
+    self.socket_server.bind(self.server_address)
+OSError: [Errno 98] Address already in use
+2018-05-13 15:37:05,133 [ ERROR ]: [ ERROR ] Error binding socket
+Traceback (most recent call last):
+  File "/home/cezar_palagesiu/PycharmProjects/hacktmIara/scripts/server/main_server.py", line 48, in __init__
+    self.socket_server.bind(self.server_address)
+OSError: [Errno 98] Address already in use
+2018-05-13 15:37:31,408 [ ERROR ]: [ ERROR ] Error binding socket
+Traceback (most recent call last):
+  File "/home/cezar_palagesiu/PycharmProjects/hacktmIara/scripts/server/main_server.py", line 48, in __init__
+    self.socket_server.bind(self.server_address)
+OSError: [Errno 98] Address already in use
+2018-05-13 15:37:39,920 [ ERROR ]: [ ERROR ] Error binding socket
+Traceback (most recent call last):
+  File "/home/cezar_palagesiu/PycharmProjects/hacktmIara/scripts/server/main_server.py", line 48, in __init__
+    self.socket_server.bind(self.server_address)
+OSError: [Errno 98] Address already in use
+2018-05-13 15:38:12,953 [ INFO ]: [ SERVER ] started listen on (10.10.0.193:8080)
+2018-05-13 15:38:16,709 [ INFO ]: [ CLIENT ] client just connected 10.10.1.195:60778
+2018-05-13 15:38:58,586 [ ERROR ]: [ ERROR ] Error binding socket
+Traceback (most recent call last):
+  File "/home/cezar_palagesiu/PycharmProjects/hacktmIara/scripts/server/main_server.py", line 48, in __init__
+    self.socket_server.bind(self.server_address)
+OSError: [Errno 98] Address already in use
+2018-05-13 15:39:22,047 [ ERROR ]: [ ERROR ] Error binding socket
+Traceback (most recent call last):
+  File "/home/cezar_palagesiu/PycharmProjects/hacktmIara/scripts/server/main_server.py", line 48, in __init__
+    self.socket_server.bind(self.server_address)
+OSError: [Errno 98] Address already in use
+2018-05-13 15:39:33,778 [ INFO ]: [ SERVER ] started listen on (10.10.0.193:8080)
+2018-05-13 15:39:39,106 [ INFO ]: [ CLIENT ] client just connected 10.10.1.195:60822
+2018-05-13 15:39:57,138 [ INFO ]: [ SERVER ] Server is closing...
+2018-05-13 15:39:57,138 [ INFO ]: [ CLIENT ] Client just disconnected 
+2018-05-13 15:40:17,326 [ ERROR ]: [ ERROR ] Error binding socket
+Traceback (most recent call last):
+  File "/home/cezar_palagesiu/PycharmProjects/hacktmIara/scripts/server/main_server.py", line 48, in __init__
+    self.socket_server.bind(self.server_address)
+OSError: [Errno 98] Address already in use
+2018-05-13 15:40:38,842 [ ERROR ]: [ ERROR ] Error binding socket
+Traceback (most recent call last):
+  File "/home/cezar_palagesiu/PycharmProjects/hacktmIara/scripts/server/main_server.py", line 48, in __init__
+    self.socket_server.bind(self.server_address)
+OSError: [Errno 98] Address already in use
+2018-05-13 15:40:39,916 [ ERROR ]: [ ERROR ] Error binding socket
+Traceback (most recent call last):
+  File "/home/cezar_palagesiu/PycharmProjects/hacktmIara/scripts/server/main_server.py", line 48, in __init__
+    self.socket_server.bind(self.server_address)
+OSError: [Errno 98] Address already in use
+2018-05-13 15:40:40,630 [ ERROR ]: [ ERROR ] Error binding socket
+Traceback (most recent call last):
+  File "/home/cezar_palagesiu/PycharmProjects/hacktmIara/scripts/server/main_server.py", line 48, in __init__
+    self.socket_server.bind(self.server_address)
+OSError: [Errno 98] Address already in use
+2018-05-13 15:40:41,452 [ ERROR ]: [ ERROR ] Error binding socket
+Traceback (most recent call last):
+  File "/home/cezar_palagesiu/PycharmProjects/hacktmIara/scripts/server/main_server.py", line 48, in __init__
+    self.socket_server.bind(self.server_address)
+OSError: [Errno 98] Address already in use
+2018-05-13 15:40:46,451 [ ERROR ]: [ ERROR ] Error binding socket
+Traceback (most recent call last):
+  File "/home/cezar_palagesiu/PycharmProjects/hacktmIara/scripts/server/main_server.py", line 48, in __init__
+    self.socket_server.bind(self.server_address)
+OSError: [Errno 98] Address already in use
+2018-05-13 15:40:49,604 [ ERROR ]: [ ERROR ] Error binding socket
+Traceback (most recent call last):
+  File "/home/cezar_palagesiu/PycharmProjects/hacktmIara/scripts/server/main_server.py", line 48, in __init__
+    self.socket_server.bind(self.server_address)
+OSError: [Errno 98] Address already in use
+2018-05-13 15:40:54,207 [ ERROR ]: [ ERROR ] Error binding socket
+Traceback (most recent call last):
+  File "/home/cezar_palagesiu/PycharmProjects/hacktmIara/scripts/server/main_server.py", line 48, in __init__
+    self.socket_server.bind(self.server_address)
+OSError: [Errno 98] Address already in use
+2018-05-13 15:41:04,925 [ INFO ]: [ SERVER ] started listen on (10.10.0.193:8081)
+2018-05-13 15:43:37,760 [ INFO ]: [ CLIENT ] client just connected 10.10.1.195:61256
+2018-05-13 15:44:14,022 [ INFO ]: [ CLIENT ] Client just disconnected 
+2018-05-15 00:37:36,913 [ INFO ]: [ SERVER ] Server is closing...
+2018-05-15 00:37:36,913 [ INFO ]: [ CLIENT ] Client just disconnected 

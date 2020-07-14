@@ -1,0 +1,131 @@
+
+2018-05-13 11:25:42,574 [  ERROR  ] scripts.server.main_server.chat_server - $(lineno)s : [ ERROR ] Error binding socket
+Traceback (most recent call last):
+  File "/home/cezar_palagesiu/PycharmProjects/hacktmIara/scripts/server/main_server.py", line 42, in __init__
+    self.socket_server.bind(self.server_address)
+OSError: [Errno 98] Address already in use
+2018-05-13 11:25:45,236 [  ERROR  ] scripts.server.main_server.chat_server - $(lineno)s : [ ERROR ] Error binding socket
+Traceback (most recent call last):
+  File "/home/cezar_palagesiu/PycharmProjects/hacktmIara/scripts/server/main_server.py", line 42, in __init__
+    self.socket_server.bind(self.server_address)
+OSError: [Errno 98] Address already in use
+2018-05-13 11:25:46,063 [  ERROR  ] scripts.server.main_server.chat_server - $(lineno)s : [ ERROR ] Error binding socket
+Traceback (most recent call last):
+  File "/home/cezar_palagesiu/PycharmProjects/hacktmIara/scripts/server/main_server.py", line 42, in __init__
+    self.socket_server.bind(self.server_address)
+OSError: [Errno 98] Address already in use
+2018-05-13 11:25:58,569 [  ERROR  ] scripts.server.main_server.chat_server - $(lineno)s : [ ERROR ] Error binding socket
+Traceback (most recent call last):
+  File "/home/cezar_palagesiu/PycharmProjects/hacktmIara/scripts/server/main_server.py", line 42, in __init__
+    self.socket_server.bind(self.server_address)
+OSError: [Errno 98] Address already in use
+2018-05-13 11:26:05,221 [  ERROR  ] scripts.server.main_server.chat_server - $(lineno)s : [ ERROR ] Error binding socket
+Traceback (most recent call last):
+  File "/home/cezar_palagesiu/PycharmProjects/hacktmIara/scripts/server/main_server.py", line 42, in __init__
+    self.socket_server.bind(self.server_address)
+OSError: [Errno 98] Address already in use
+2018-05-13 11:26:06,991 [  ERROR  ] scripts.server.main_server.chat_server - $(lineno)s : [ ERROR ] Error binding socket
+Traceback (most recent call last):
+  File "/home/cezar_palagesiu/PycharmProjects/hacktmIara/scripts/server/main_server.py", line 42, in __init__
+    self.socket_server.bind(self.server_address)
+OSError: [Errno 98] Address already in use
+2018-05-13 11:26:08,645 [  ERROR  ] scripts.server.main_server.chat_server - $(lineno)s : [ ERROR ] Error binding socket
+Traceback (most recent call last):
+  File "/home/cezar_palagesiu/PycharmProjects/hacktmIara/scripts/server/main_server.py", line 42, in __init__
+    self.socket_server.bind(self.server_address)
+OSError: [Errno 98] Address already in use
+2018-05-13 13:50:28,463 [  ERROR  ] scripts.server.main_server.chat_server - $(lineno)s : [ ERROR ] Error binding socket
+Traceback (most recent call last):
+  File "/home/cezar_palagesiu/PycharmProjects/hacktmIara/scripts/server/main_server.py", line 48, in __init__
+    self.socket_server.bind(self.server_address)
+OSError: [Errno 98] Address already in use
+2018-05-13 13:50:29,795 [  ERROR  ] scripts.server.main_server.chat_server - $(lineno)s : [ ERROR ] Error binding socket
+Traceback (most recent call last):
+  File "/home/cezar_palagesiu/PycharmProjects/hacktmIara/scripts/server/main_server.py", line 48, in __init__
+    self.socket_server.bind(self.server_address)
+OSError: [Errno 98] Address already in use
+2018-05-13 13:50:33,740 [  ERROR  ] scripts.server.main_server.chat_server - $(lineno)s : [ ERROR ] Error binding socket
+Traceback (most recent call last):
+  File "/home/cezar_palagesiu/PycharmProjects/hacktmIara/scripts/server/main_server.py", line 48, in __init__
+    self.socket_server.bind(self.server_address)
+OSError: [Errno 98] Address already in use
+2018-05-13 13:50:44,011 [  ERROR  ] scripts.server.main_server.chat_server - $(lineno)s : [ ERROR ] Error binding socket
+Traceback (most recent call last):
+  File "/home/cezar_palagesiu/PycharmProjects/hacktmIara/scripts/server/main_server.py", line 48, in __init__
+    self.socket_server.bind(self.server_address)
+OSError: [Errno 98] Address already in use
+2018-05-13 13:51:04,440 [  ERROR  ] scripts.server.main_server.chat_server - $(lineno)s : [ ERROR ] Error binding socket
+Traceback (most recent call last):
+  File "/home/cezar_palagesiu/PycharmProjects/hacktmIara/scripts/server/main_server.py", line 48, in __init__
+    self.socket_server.bind(self.server_address)
+OSError: [Errno 98] Address already in use
+2018-05-13 15:36:59,467 [  ERROR  ] scripts.server.main_server.chat_server - $(lineno)s : [ ERROR ] Error binding socket
+Traceback (most recent call last):
+  File "/home/cezar_palagesiu/PycharmProjects/hacktmIara/scripts/server/main_server.py", line 48, in __init__
+    self.socket_server.bind(self.server_address)
+OSError: [Errno 98] Address already in use
+2018-05-13 15:37:05,133 [  ERROR  ] scripts.server.main_server.chat_server - $(lineno)s : [ ERROR ] Error binding socket
+Traceback (most recent call last):
+  File "/home/cezar_palagesiu/PycharmProjects/hacktmIara/scripts/server/main_server.py", line 48, in __init__
+    self.socket_server.bind(self.server_address)
+OSError: [Errno 98] Address already in use
+2018-05-13 15:37:31,408 [  ERROR  ] scripts.server.main_server.chat_server - $(lineno)s : [ ERROR ] Error binding socket
+Traceback (most recent call last):
+  File "/home/cezar_palagesiu/PycharmProjects/hacktmIara/scripts/server/main_server.py", line 48, in __init__
+    self.socket_server.bind(self.server_address)
+OSError: [Errno 98] Address already in use
+2018-05-13 15:37:39,920 [  ERROR  ] scripts.server.main_server.chat_server - $(lineno)s : [ ERROR ] Error binding socket
+Traceback (most recent call last):
+  File "/home/cezar_palagesiu/PycharmProjects/hacktmIara/scripts/server/main_server.py", line 48, in __init__
+    self.socket_server.bind(self.server_address)
+OSError: [Errno 98] Address already in use
+2018-05-13 15:38:58,586 [  ERROR  ] scripts.server.main_server.chat_server - $(lineno)s : [ ERROR ] Error binding socket
+Traceback (most recent call last):
+  File "/home/cezar_palagesiu/PycharmProjects/hacktmIara/scripts/server/main_server.py", line 48, in __init__
+    self.socket_server.bind(self.server_address)
+OSError: [Errno 98] Address already in use
+2018-05-13 15:39:22,047 [  ERROR  ] scripts.server.main_server.chat_server - $(lineno)s : [ ERROR ] Error binding socket
+Traceback (most recent call last):
+  File "/home/cezar_palagesiu/PycharmProjects/hacktmIara/scripts/server/main_server.py", line 48, in __init__
+    self.socket_server.bind(self.server_address)
+OSError: [Errno 98] Address already in use
+2018-05-13 15:40:17,326 [  ERROR  ] scripts.server.main_server.chat_server - $(lineno)s : [ ERROR ] Error binding socket
+Traceback (most recent call last):
+  File "/home/cezar_palagesiu/PycharmProjects/hacktmIara/scripts/server/main_server.py", line 48, in __init__
+    self.socket_server.bind(self.server_address)
+OSError: [Errno 98] Address already in use
+2018-05-13 15:40:38,842 [  ERROR  ] scripts.server.main_server.chat_server - $(lineno)s : [ ERROR ] Error binding socket
+Traceback (most recent call last):
+  File "/home/cezar_palagesiu/PycharmProjects/hacktmIara/scripts/server/main_server.py", line 48, in __init__
+    self.socket_server.bind(self.server_address)
+OSError: [Errno 98] Address already in use
+2018-05-13 15:40:39,916 [  ERROR  ] scripts.server.main_server.chat_server - $(lineno)s : [ ERROR ] Error binding socket
+Traceback (most recent call last):
+  File "/home/cezar_palagesiu/PycharmProjects/hacktmIara/scripts/server/main_server.py", line 48, in __init__
+    self.socket_server.bind(self.server_address)
+OSError: [Errno 98] Address already in use
+2018-05-13 15:40:40,630 [  ERROR  ] scripts.server.main_server.chat_server - $(lineno)s : [ ERROR ] Error binding socket
+Traceback (most recent call last):
+  File "/home/cezar_palagesiu/PycharmProjects/hacktmIara/scripts/server/main_server.py", line 48, in __init__
+    self.socket_server.bind(self.server_address)
+OSError: [Errno 98] Address already in use
+2018-05-13 15:40:41,452 [  ERROR  ] scripts.server.main_server.chat_server - $(lineno)s : [ ERROR ] Error binding socket
+Traceback (most recent call last):
+  File "/home/cezar_palagesiu/PycharmProjects/hacktmIara/scripts/server/main_server.py", line 48, in __init__
+    self.socket_server.bind(self.server_address)
+OSError: [Errno 98] Address already in use
+2018-05-13 15:40:46,451 [  ERROR  ] scripts.server.main_server.chat_server - $(lineno)s : [ ERROR ] Error binding socket
+Traceback (most recent call last):
+  File "/home/cezar_palagesiu/PycharmProjects/hacktmIara/scripts/server/main_server.py", line 48, in __init__
+    self.socket_server.bind(self.server_address)
+OSError: [Errno 98] Address already in use
+2018-05-13 15:40:49,604 [  ERROR  ] scripts.server.main_server.chat_server - $(lineno)s : [ ERROR ] Error binding socket
+Traceback (most recent call last):
+  File "/home/cezar_palagesiu/PycharmProjects/hacktmIara/scripts/server/main_server.py", line 48, in __init__
+    self.socket_server.bind(self.server_address)
+OSError: [Errno 98] Address already in use
+2018-05-13 15:40:54,207 [  ERROR  ] scripts.server.main_server.chat_server - $(lineno)s : [ ERROR ] Error binding socket
+Traceback (most recent call last):
+  File "/home/cezar_palagesiu/PycharmProjects/hacktmIara/scripts/server/main_server.py", line 48, in __init__
+    self.socket_server.bind(self.server_address)
+OSError: [Errno 98] Address already in use
